@@ -1,6 +1,6 @@
 Privacy Policy
 
-Appdeveloper4fun built the Las Vegas City Guides app as a Free app. This SERVICE is provided by Appdeveloper4fun at no cost and is intended for use as is.
+CJ built the Las Vegas Travel Guide app as a Free app. This SERVICE is provided by CJ at no cost and is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
@@ -64,4 +64,4 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 
 Contact Us
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at appdeveloper4fun@gmail.com.
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at cjwangdeveloper@gmail.com.
